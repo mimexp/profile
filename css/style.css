@@ -1,0 +1,21 @@
+body {
+    color: #d88eae;
+    font-family: sans-serif;
+}
+
+h1 {
+    color: #f4a7c5;
+    font-size: 32px;
+}
+
+h2 {
+    border-bottom: 2px solid #f4a7c5;
+    padding-bottom: 5px;
+}
+table, th, td {
+    border: 1px solid #d88eae;
+}
+.favorite {
+    color: #e8a0bf;
+    font-weight: bold;
+}
